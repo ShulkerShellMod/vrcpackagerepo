@@ -1,10 +1,10 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"Lizi's Repo",
+    "id":"com.vrchat.lizi.repo",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
+        "email":"auqathefox@gmail.com",
+        "name":"Lizi",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
